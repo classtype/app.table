@@ -1,0 +1,33 @@
+{
+    "name": "app.table",
+    "version": "1.0.0",
+    "description": "Модуль для построения таблиц в консоли.",
+    "contributors": [
+        {
+            "name": "Sergei",
+            "email": "classtype@mail.ru"
+        }
+    ],
+    "main": "src/app.table.js",
+    "homepage": "http://github.com/classtype/app.table",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/classtype/app.table.git"
+    },
+    "bugs": {
+        "url": "http://github.com/classtype/app.table/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/classtype/app.table/blob/master/LICENSE"
+        }
+    ],
+    "keywords": [
+        "table",
+        "console"
+    ],
+    "dependencies": {
+        "colors": "1.4.0"
+    }
+}
